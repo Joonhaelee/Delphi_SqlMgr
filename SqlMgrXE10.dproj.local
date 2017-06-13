@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.810,=rtl.dcp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.410,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NLibSqlMgr.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.594,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NBaseConst.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.052,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NLibFireDacSqlMgr.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.121,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Package1.dproj=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\SqlMgrXE10.dproj</Transaction>
+    <Transaction>2017-06-13 16:39:13.217,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NBaseClass.pas</Transaction>
+    <Transaction>2017-06-13 16:39:13.220,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NBaseRtti.pas</Transaction>
+    <Transaction>2017-06-13 16:39:37.555,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NBasePerf.pas</Transaction>
+    <Transaction>2017-06-13 16:39:52.020,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NLibString.pas</Transaction>
+    <Transaction>2017-06-13 16:40:04.974,=D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NLibDateTime.pas</Transaction>
+    <Transaction>2017-06-13 16:40:18.425,=dbrtl.dcp</Transaction>
+    <Transaction>2017-06-13 16:40:18.443,=fmx.dcp</Transaction>
+    <Transaction>2017-06-13 16:40:18.457,=FireDAC.dcp</Transaction>
+    <Transaction>2017-06-13 16:40:18.472,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2017-06-13 16:40:18.489,=FireDACCommon.dcp</Transaction>
+    <Transaction>2017-06-13 17:03:39.714,D:\00.WorkSpace\00.GitUnibox\rental XE10.1\lib\Lib\NBaseConst.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
